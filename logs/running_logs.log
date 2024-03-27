@@ -1,0 +1,178 @@
+[2024-03-26 11:10:55,777: INFO: main: welcome rizwan]
+[2024-03-26 15:24:59,630: INFO: main: welcome rizwan]
+[2024-03-26 16:02:42,504: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:02:42,509: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:04:21,222: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:04:21,227: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:04:21,229: INFO: common: created directory at: artifacts]
+[2024-03-26 16:04:21,238: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-26 16:04:21,242: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 16:04:56,364: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 16:12:54,781: WARNING: module_wrapper: From c:\Users\T495\.conda\envs\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-26 16:13:24,981: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:13:24,983: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:13:24,991: INFO: common: created directory at: artifacts]
+[2024-03-26 16:21:47,803: INFO: main: welcome rizwan]
+[2024-03-26 16:25:27,170: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:25:27,177: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:25:27,179: INFO: common: created directory at: artifacts]
+[2024-03-26 16:32:49,204: WARNING: module_wrapper: From c:\Users\T495\.conda\envs\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-26 16:36:00,859: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:36:00,867: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:36:00,874: INFO: common: created directory at: artifacts]
+[2024-03-26 16:36:43,228: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:36:43,228: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:36:43,242: INFO: common: created directory at: artifacts]
+[2024-03-26 16:48:44,976: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-26 16:48:44,976: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 16:48:44,976: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 16:48:44,976: INFO: common: created directory at: artifacts]
+[2024-03-26 16:48:44,976: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-26 16:48:44,991: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 16:49:51,225: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 16:49:52,916: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-26 17:04:51,155: WARNING: module_wrapper: From c:\Users\T495\.conda\envs\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-26 17:14:23,684: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 17:14:23,692: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 17:14:23,696: INFO: common: created directory at: artifacts]
+[2024-03-26 17:30:11,666: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-26 17:30:11,678: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 17:30:11,678: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 17:30:11,678: INFO: common: created directory at: artifacts]
+[2024-03-26 17:30:11,678: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-26 17:30:11,678: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 17:32:54,957: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 17:32:55,927: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-26 18:16:25,971: WARNING: module_wrapper: From c:\Users\T495\.conda\envs\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-26 18:19:24,653: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 18:19:24,653: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 18:19:24,653: INFO: common: created directory at: artifacts]
+[2024-03-26 18:19:24,668: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-26 18:19:25,267: WARNING: module_wrapper: From c:\Users\T495\.conda\envs\kidney\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-03-26 18:19:25,607: WARNING: module_wrapper: From c:\Users\T495\.conda\envs\kidney\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-03-26 18:20:08,874: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-26 18:25:51,517: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-26 18:25:51,517: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 18:25:51,517: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 18:25:51,517: INFO: common: created directory at: artifacts]
+[2024-03-26 18:25:51,533: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-26 18:25:51,533: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 18:26:25,499: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 18:26:27,048: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-26 21:13:45,527: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-26 21:13:45,527: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 21:13:45,527: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 21:13:45,527: INFO: common: created directory at: artifacts]
+[2024-03-26 21:13:45,527: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-26 21:13:45,527: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 21:14:20,679: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-26 21:14:21,780: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-26 21:14:21,780: INFO: main: *******************]
+[2024-03-26 21:14:21,780: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-26 21:14:21,780: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 21:14:21,780: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 21:14:21,780: INFO: common: created directory at: artifacts]
+[2024-03-26 21:14:21,780: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-26 21:14:22,466: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-26 21:14:22,772: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-03-27 22:33:13,209: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:33:13,218: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:33:13,218: INFO: common: created directory at: artifacts]
+[2024-03-27 22:33:13,223: INFO: common: created directory at: artifacts\training]
+[2024-03-27 22:37:09,079: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-27 22:37:09,079: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:37:09,079: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:37:09,079: INFO: common: created directory at: artifacts]
+[2024-03-27 22:37:09,079: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-27 22:37:09,079: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-27 22:37:37,765: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-27 22:37:38,711: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-27 22:37:38,711: INFO: main: *******************]
+[2024-03-27 22:37:38,711: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-27 22:37:38,718: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:37:38,721: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:37:38,721: INFO: common: created directory at: artifacts]
+[2024-03-27 22:37:38,721: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-27 22:37:39,494: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-27 22:37:39,847: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-03-27 22:38:13,898: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:38:13,906: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:38:13,906: INFO: common: created directory at: artifacts]
+[2024-03-27 22:38:13,906: INFO: common: created directory at: artifacts\training]
+[2024-03-27 22:48:44,398: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-27 22:48:44,414: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:48:44,414: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:48:44,414: INFO: common: created directory at: artifacts]
+[2024-03-27 22:48:44,414: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-27 22:48:44,414: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-27 22:49:50,026: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-27 22:49:50,900: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-27 22:49:50,900: INFO: main: *******************]
+[2024-03-27 22:49:50,900: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-27 22:49:50,900: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:49:50,915: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:49:50,915: INFO: common: created directory at: artifacts]
+[2024-03-27 22:49:50,915: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-27 22:49:51,556: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-27 22:49:51,902: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-03-27 22:49:51,902: INFO: main: *******************]
+[2024-03-27 22:49:51,902: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-03-27 22:49:51,902: ERROR: main: name 'ModelTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\T495\Kidney_Disease_Deeplearning_End_to_End_project-DVC_piplines\main.py", line 39, in <module>
+    model_trainer = ModelTrainingPipeline()
+                    ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'ModelTrainingPipeline' is not defined
+[2024-03-27 22:52:40,748: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-27 22:52:40,748: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:52:40,748: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:52:40,748: INFO: common: created directory at: artifacts]
+[2024-03-27 22:52:40,748: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-27 22:52:40,748: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-27 22:53:42,168: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-27 22:53:43,150: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-27 22:53:43,150: INFO: main: *******************]
+[2024-03-27 22:53:43,150: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-27 22:53:43,158: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:53:43,158: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:53:43,158: INFO: common: created directory at: artifacts]
+[2024-03-27 22:53:43,158: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-27 22:53:43,854: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-27 22:53:44,184: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-03-27 22:53:44,184: INFO: main: *******************]
+[2024-03-27 22:53:44,184: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-03-27 22:53:44,184: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 22:53:44,184: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 22:53:44,184: INFO: common: created directory at: artifacts]
+[2024-03-27 22:53:44,184: INFO: common: created directory at: artifacts\training]
+[2024-03-27 22:55:55,222: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
